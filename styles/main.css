@@ -1,0 +1,396 @@
+.header {
+  height: 120px;
+  background-color: #fff;
+}
+.slider {
+  width: 1440px;
+  height: 570px;
+  margin: 0 auto;
+  display: flex;
+}
+.slider-left {
+  width: 720px;
+  height: 100%;
+  background-image: url(../images/philip-martin-5aGUyCW_PJw-unsplash.png);
+}
+.slider-right {
+  width: 720px;
+  height: 100%;
+  background-color: #000;
+}
+.slider-text{
+  width: 507px;
+  height: 311px;
+  margin: 113px 107px 140px 108px;
+  color: #fff;
+}
+.lifestyle-date-slider{
+  display: flex;
+  justify-content: space-between;
+}
+.text_slider-1{
+  font-family: 'Kanit', sans-serif;
+  font-size: 14px;
+  padding: 0px 0 0 0px;
+  letter-spacing: 7px;
+}
+.text_slider-2{
+  font-family: 'Kanit', sans-serif;
+  font-size: 16px;
+  text-decoration: underline;
+  padding: 0px 2px 0 0px;
+}
+.text_slider-3{
+  text-transform: uppercase;
+  font-family: 'Kanit', sans-serif;
+  font-size: 28px;
+  padding: 75px 0px 0 0px;
+  word-spacing: 3px;
+}
+.text_slider-4{
+  font-family: 'Kanit-light', sans-serif;
+  font-size: 14px;
+  padding: 34px 35px 0 0px;
+  line-height: 22px;
+  word-spacing: 2px;
+}
+.button-slider{
+  width: 198px;
+  height: 55px;
+  font-family: 'Kanit', sans-serif;
+  font-size: 12px;
+  color: white;
+  background-color: #000;
+  border: 1px solid white;
+  cursor: pointer;
+  margin-top: 54px;
+}
+.menu {
+  width: 1440px;
+  height: 120px;
+  margin: 0 auto;
+}
+.dropbtn {
+  width: 24px;
+  height: 25px;
+  background-image: url(../images/Line\ 4.png);
+  border: none;
+  cursor: pointer;
+  background-color: white;
+  margin-top: 49px;
+  margin-left: 51px;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  width: 344px;
+  height: 359px;
+  background-color: #FFF;
+  position: absolute;
+  top: 106px;
+  left: 51px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+  
+  color: black;
+  padding: 23px 0px 0px 34px;
+  font-family: 'Kanit', sans-serif;
+  font-size: 16px;
+  text-decoration: underline;
+  background-color: #fff;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #fff;;
+}
+.dropdown:hover .dropdown-content {
+  padding: 30px;
+  display: block;
+}
+  
+.header-logo {
+ display: block;
+ padding-top: 44px;
+ padding-left: 641px;
+}
+.featured {
+  width: 1440px;
+  height: 768px;
+  margin: 0 auto;
+}
+.featured-first {
+  width: 1440px;
+  height: 116px;
+}
+.text_1 {
+  font-family: 'Kanit', sans-serif;
+  font-size: 18px;
+  padding: 64px 0px 0 149px;
+}
+.featured-left {
+  width: 720px;
+  height: 600px;
+  float: left;
+}
+.featured-right {
+  width: 720px;
+  height: 600px;
+  float: left;
+}
+.news-1 {
+  width: 557px;
+  height: 368px;
+  margin-left: 149px;
+  float: left;
+}
+.news-2 {
+  width: 557px;
+  height: 368px;
+  margin-left: 27px;
+  float: left;
+}
+.lifestyle-date{
+  display: flex;
+  justify-content: space-between;
+}
+
+.text_2{
+  font-family: 'Kanit', sans-serif;
+  font-size: 12px;
+  padding: 26px 0 0 0px;
+  letter-spacing: 6px;
+}
+.text_3{
+  font-family: 'Kanit', sans-serif;
+  font-size: 12px;
+  text-decoration: underline;
+  padding: 29px 2px 0 0px;
+}
+.text_4{
+  font-family: 'Kanit', sans-serif;
+  font-size: 24px;
+  margin-left: 2px;
+  word-spacing: 3px;
+  line-height: 36px;
+  padding: 34px 6px 0 0px;
+}
+.text_5{
+  font-family: 'Kanit-light', sans-serif;
+  font-size: 18px;
+  margin-left: -41px;
+  word-spacing: 3px;
+  line-height: 28px;
+  padding: 18px 0 0px 40px;
+}
+.featured-block2{
+  width: 1440px;
+  height: 350px;
+  margin: 0 auto;
+}
+.news-3{
+  width: 1143px;
+  margin: 0 auto;
+}
+.pic-news-3{
+  float: left;
+}
+.pic-news-4{
+  float: left;
+  padding-left: 27px;
+}
+.pic-news-5{
+  padding-left: 27px;
+  float: left;
+}
+.text_news-2{
+  font-family: 'Kanit', sans-serif;
+  font-size: 12px;
+  padding: 20px 0 0 1px;
+  letter-spacing: 6px;
+}
+.text_news-3{
+  font-family: 'Kanit', sans-serif;
+  font-size: 12px;
+  text-decoration: underline;
+  padding: 20px 0px 0 0px;
+}
+.text_6 {
+  font-family: 'Kanit', sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
+  padding: 34px 0px 0px 1px;
+  word-spacing: 2px;
+}
+.button-see{
+  width: 1440px;
+  height: 155px;
+  margin: 0 auto;
+  display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.btn{
+  width: 238px;
+  height: 42px;
+  color: white;
+  font-family: 'Kanit', sans-serif;
+  font-size: 14px;
+  background-color: #303030;
+  border: 0;
+  cursor: pointer;
+  margin-top: -29px;
+  margin-left: 2px;
+  word-spacing: 2px;
+}
+.subscribe{
+  width: 1440px;
+  height: 360px;
+  margin: 0 auto;
+  display: flex;
+ justify-content: center
+}
+.pic-152078{
+ width: 571.5px;
+}
+.pic-sbc2{
+  width: 571.5px;
+  height: 360px;
+  background-color: #000;
+}
+.sbc2-text{
+  font-family: 'Kanit', sans-serif;
+  font-size: 34px;
+  color: #FFE;
+  padding: 133px 0px 0 117px;
+  word-spacing: 5px;
+}
+.button-sbc2{
+  width: 198px;
+  height: 42px;
+  font-family: 'Kanit', sans-serif;
+  font-size: 14px;
+  color: white;
+  background-color: #000;
+  border: 1px solid white;
+  cursor: pointer;
+  margin-top: 28px;
+  margin-left: 187px;
+  word-spacing: 2px;
+}
+.interviews {
+  width: 1440px;
+  height: 450px;
+  margin: 0 auto;
+}
+.interviews-first {
+  width: 1440px;
+  height: 123px;
+}
+.text_1_1{
+  font-family: 'Kanit', sans-serif;
+  font-size: 18px;
+  padding: 70px 0px 0 150px;
+}
+.text_interviews-2{
+  font-family: 'Kanit', sans-serif;
+  font-size: 12px;
+  padding: 9px 0 0 1px;
+  letter-spacing: 6px;
+}
+.text_interviews-3{
+  font-family: 'Kanit', sans-serif;
+  font-size: 12px;
+  text-decoration: underline;
+  padding: 12px 0px 0 0px;
+}
+.button-see-2{
+  width: 1440px;
+  height: 115px;
+  margin: 0 auto;
+  display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.btn-2{
+  width: 238px;
+  height: 42px;
+  color: white;
+  font-family: 'Kanit', sans-serif;
+  font-size: 14px;
+  background-color: #303030;
+  border: 0;
+  cursor: pointer;
+  margin-top: -4px;
+  margin-left: 2px;
+  word-spacing: 2px;
+}
+.news {
+  width: 1440px;
+  height: 376px;
+  margin: 0 auto;
+}
+.news-first {
+  width: 1440px;
+  height: 50px;
+}
+.text_1_news{
+  font-family: 'Kanit', sans-serif;
+  font-size: 18px;
+  padding: 0px 0px 0 150px;
+}
+.button-see-3{
+  width: 1440px;
+  height: 174px;
+  margin: 0 auto;
+  display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.btn-3{
+  width: 238px;
+  height: 42px;
+  color: white;
+  font-family: 'Kanit', sans-serif;
+  font-size: 14px;
+  background-color: #303030;
+  border: 0;
+  cursor: pointer;
+  margin-top: -68px;
+  margin-left: 2px;
+  word-spacing: 2px;
+}
+.footer{
+  width: 100%;
+  height: 142px;
+  background-color: #000;
+}
+.footer-1{
+  width: 1440px;
+  height: 120px;
+  margin: 0 auto;
+}
+.footer-logo{
+  display: block;
+  padding-top: 55px;
+  padding-left: 45%;
+}
+.designed{
+  color: #fff;
+  padding-top: 38px;
+  padding-left: 669px;
+  word-spacing: 2px;
+  font-family: 'Kanit-light', sans-serif;
+  font-size: 12px;
+}
+
+
+
+
+
